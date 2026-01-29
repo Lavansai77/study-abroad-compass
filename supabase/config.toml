@@ -1,0 +1,4 @@
+project_id = "gfxjwykegacnnuezkvuc"
+
+[functions.ai-counsellor]
+verify_jwt = false
