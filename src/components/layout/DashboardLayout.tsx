@@ -39,7 +39,7 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
               <div className="w-10 h-10 rounded-xl gradient-hero flex items-center justify-center">
                 <GraduationCap className="w-6 h-6 text-white" />
               </div>
-              <span className="font-display text-xl font-bold">AI Counsellor</span>
+              <span className="font-display text-xl font-bold">Stud-Path</span>
             </Link>
           </div>
 
